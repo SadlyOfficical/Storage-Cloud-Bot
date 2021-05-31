@@ -10,7 +10,7 @@ In order for this program to work, you're going to need to create a discord bot 
 The bot will need a place to upload files. Create a new discord server, make sure no one else is on it unless you want them to access your files.
 
 ##### 3) Adding your bot to the server
-To add the bot to the server (assuming your bot isn't public), go to the following link: https://discordapp.com/oauth2/authorize?client_id={CLIENT_ID}&scope=bot&permissions=0
+To add the bot to the server (assuming your bot isn't public), go to the following link: https://discordapp.com/oauth2/authorize?client_id={CLIENT_ID}&scope=bot&permissions=63488
 Replace {CLIENT_ID} with the client ID you copied earlier. Then, select the server you just made and authorize. Your server should now show your bot like [this](http://i.imgur.com/NnqQAv7.png).
 
 #### Setting up the program
