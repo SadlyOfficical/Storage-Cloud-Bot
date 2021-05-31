@@ -1,5 +1,5 @@
 # Discord Storage
-Utilize Discord servers as cloud storage! [This only works on python 3.9.x - 3.9.5
+Utilize Discord servers as cloud storage! [This only works on python 3.9.x - 3.9.5]
 
 ## Tutorial
 #### Setting up the bot/server
