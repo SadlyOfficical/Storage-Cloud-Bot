@@ -6,7 +6,7 @@ ROOM_ID = "" #channel text ID
 BOT_INFO = None
 FILES = None
 
-#Generates a file code from 0-4097
+#Generates a file code from 0-4098
 def genCode():
     code = str(random.randint(0,4098))
     if FILES == None:
